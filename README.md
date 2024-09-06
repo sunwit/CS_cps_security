@@ -46,8 +46,9 @@ CS Cyber-physical system security
 * secure backscatter tags
    * Reading 1: [RF-Cloak](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-hassanieh.pdf)
    * Reading 2: [Eingerprint](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf)
-* non-cooperative WiFi privacy
-   * reading 1: [Wi-Peep](https://dl.acm.org/doi/pdf/10.1145/3495243.3560530)
+* WiFi protocol vulnerability
+   * Reading 1: [Wi-Peep](https://dl.acm.org/doi/pdf/10.1145/3495243.3560530)
+   * Reading 2: [MvWDL](https://www.usenix.org/system/files/sec20-yu.pdf)
 ---
 
 # Virtual reality systems security and privacy
