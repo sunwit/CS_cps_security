@@ -62,10 +62,24 @@ CS Cyber-physical system security
    * Reading 4: [RFace-ID](https://dl.acm.org/doi/pdf/10.1145/3494985)
 ---
 
-# Virtual reality systems security and privacy
+# Virtual reality systems security 
+* VR security
+  * Reading 1: [INTRUDE](https://www.usenix.org/system/files/sec24summer-prepub-715-nguyen.pdf)
+  * Reading 2: [It's all in your head(set)](https://www.usenix.org/system/files/usenixsecurity23-zhang-yicheng.pdf)
+* multi-user VR security
+   * Reading 1: [That Doesn’t Go There](https://www.usenix.org/system/files/sec24summer-prepub-218-slocum.pdf)
+   * Reading 2: [remote keylogging](https://www.usenix.org/system/files/usenixsecurity24-su-zihao.pdf)
 ---
 
-# Autonomous vehicle security
+# Autonomous vehicles/drones security
+* attack and defense on drones
+   * Reading 1: [Paralyzing Drones](https://www.ndss-symposium.org/ndss-paper/paralyzing-drones-via-emi-signal-injection-on-sensory-communication-channels/)
+   * Reading 2: [rocking drone](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-son.pdf)
+   * Reading 3: [Matthan](https://dl.acm.org/doi/abs/10.1145/3081333.3081354)
+* attack and defense on vehicles
+   * Reading 1:[TileMask](https://dl.acm.org/doi/pdf/10.1145/3576915.3616661)
+   * Reading 2:[MadRadar](https://www.ndss-symposium.org/wp-content/uploads/ndss2024_f153_paper.pdf)
+   * Reading 3:[mmSpoof](https://ieeexplore.ieee.org/abstract/document/10179371)
 ---
 # Smart grid security
    * Reading 1: [MadIoT](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/madiot.pdf)
