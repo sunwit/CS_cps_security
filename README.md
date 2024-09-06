@@ -26,6 +26,7 @@ CS Cyber-physical system security
 * Electromagnetic emanations side-channel for IoT
    * Reading 1: [ESauron](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
    * Reading 2: [EarFisher](https://www.usenix.org/conference/nsdi21/presentation/shen)
+* 
 ---
 
 # Wireless communication and sensing systems security and privacy
@@ -35,6 +36,15 @@ CS Cyber-physical system security
 ---
 
 # Autonomous vehicle security
+---
+# Smart grid security
+* power system security
+   * Reading 1: [MadIoT](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/madiot.pdf)
+   * Reading 2: [shedding light on grid](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179343)
+* Electrical vehicle security
+   * Reading 1: [Losing the Car Keys](https://www.usenix.org/system/files/sec19-baker.pdf)
+   * Reading 2: [secure EV charging](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-79-paper.pdf)
+   * Reading 3: [BROKENWIRE](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s251_paper.pdf)
 ---
 
 # Machine learning security
