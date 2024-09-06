@@ -46,7 +46,7 @@ CS Cyber-physical system security
 * WiFi protocol vulnerability
    * Reading 1: [Wi-Peep](https://dl.acm.org/doi/pdf/10.1145/3495243.3560530)
    * Reading 2: [wifi say hi](https://dl.acm.org/doi/pdf/10.1145/3422604.3425951)
-   * Reading 3: [wifi wps security](Surveilling the Masses with Wi-Fi-Based Positioning Systems)
+   * Reading 3: [wifi wps security](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a241/1WPcZ0zOxna)
 * MIMO security
    * Reading 1: [MIMOCryt](https://arxiv.org/pdf/2309.00250)
    * Reading 2: [CSI authentication](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
