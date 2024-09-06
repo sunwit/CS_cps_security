@@ -29,6 +29,7 @@ CS Cyber-physical system security
 * Human-centered IoT security and privacy
    * Reading 1: [sok](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6956585)
    * Reading 2: [Medical devices security](https://dl.acm.org/doi/pdf/10.1145/3139937.3139939)
+   * Reading 3: [they can hear your beats](https://dl.acm.org/doi/pdf/10.1145/2018436.2018438)
 * smart home security and privacy
    * Reading 1: [all things considered](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot1.pdf)
    * Reading 2: [IoT traffic reshaping](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot2.pdf)
@@ -45,6 +46,8 @@ CS Cyber-physical system security
 * secure backscatter tags
    * Reading 1: [RF-Cloak](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-hassanieh.pdf)
    * Reading 2: [Eingerprint](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf)
+* non-cooperative WiFi privacy
+   * reading 1: [Wi-Peep](https://dl.acm.org/doi/pdf/10.1145/3495243.3560530)
 ---
 
 # Virtual reality systems security and privacy
