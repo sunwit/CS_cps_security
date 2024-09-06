@@ -35,6 +35,16 @@ CS Cyber-physical system security
 ---
 
 # Wireless communication and sensing systems security and privacy
+* Wireless keystroke detection
+   * Reading 1: [WINK](https://dl.acm.org/doi/pdf/10.1145/3548606.3559339)
+   * Reading 2: [WindTalker](https://dl.acm.org/doi/pdf/10.1145/2976749.2978397)
+* privacy-preserving wireless
+   * Reading 1: [SnoopDog](https://www.usenix.org/system/files/sec21-singh.pdf)
+   * Reading 2: [RAFA](https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf)
+   * Reading 3: [PhyCloak](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-qiao.pdf)
+* secure backscatter tags
+   * Reading 1: [RF-Cloak](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-hassanieh.pdf)
+   * Reading 2: [Eingerprint](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf)
 ---
 
 # Virtual reality systems security and privacy
