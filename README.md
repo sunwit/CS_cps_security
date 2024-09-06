@@ -1,15 +1,14 @@
 CS Cyber-physical system security
 ==============
 
----
+# Schedule
 
-# Introduction
+## Introduction
 
 * Introduction
    * Reading 1: [How to Read a Paper](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)
    * Reading 2: [CSP project startup documents](https://www.cs.cmu.edu/~dga/15-712/S11/papers/Wilkes90.pdf)
----
-# Wireless security
+## Wireless security
 * Wireless keystroke detection
    * Reading 1: [WINK](https://dl.acm.org/doi/pdf/10.1145/3548606.3559339)
    * Reading 2: [WindTalker](https://dl.acm.org/doi/pdf/10.1145/2976749.2978397)
@@ -24,8 +23,7 @@ CS Cyber-physical system security
 * MIMO security
    * Reading 1: [MIMOCryt](https://arxiv.org/pdf/2309.00250)
    * Reading 2: [CSI authentication](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
----
-# RFID security and privacy
+## RFID security and privacy
 * secure backscatter tags
    * Reading 1: [RF-Cloak](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-hassanieh.pdf)
    * Reading 2: [Eingerprint](https://www.usenix.org/system/files/nsdi20-paper-chen.pdf)
@@ -34,9 +32,7 @@ CS Cyber-physical system security
    * Reading 2: [Au-Id](https://dl.acm.org/doi/pdf/10.1145/3328919)
    * Reading 3: [RF-Identity](https://dl.acm.org/doi/pdf/10.1145/3448101)
    * Reading 4: [RFace-ID](https://dl.acm.org/doi/pdf/10.1145/3494985)
----
-
-# IoT security and privacy
+## IoT security and privacy
 * ML for IoT security
    * Reading 1: [IOT SENTINEL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7980167)
    * Reading 2: [IoT Inspector](https://dl.acm.org/doi/pdf/10.1145/3397333)
@@ -59,18 +55,14 @@ CS Cyber-physical system security
 * smart home security and privacy
    * Reading 1: [all things considered](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot1.pdf)
    * Reading 2: [IoT traffic reshaping](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot2.pdf)
----
-
-# Virtual reality systems security 
+## Virtual reality systems security 
 * VR security
   * Reading 1: [INTRUDE](https://www.usenix.org/system/files/sec24summer-prepub-715-nguyen.pdf)
   * Reading 2: [It's all in your head(set)](https://www.usenix.org/system/files/usenixsecurity23-zhang-yicheng.pdf)
 * multi-user VR security
    * Reading 1: [That Doesn’t Go There](https://www.usenix.org/system/files/sec24summer-prepub-218-slocum.pdf)
    * Reading 2: [remote keylogging](https://www.usenix.org/system/files/usenixsecurity24-su-zihao.pdf)
----
-
-# Autonomous vehicles/drones security
+## Autonomous vehicles/drones security
 * attack and defense on drones
    * Reading 1: [Paralyzing Drones](https://www.ndss-symposium.org/ndss-paper/paralyzing-drones-via-emi-signal-injection-on-sensory-communication-channels/)
    * Reading 2: [rocking drone](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-son.pdf)
@@ -79,13 +71,11 @@ CS Cyber-physical system security
    * Reading 1:[TileMask](https://dl.acm.org/doi/pdf/10.1145/3576915.3616661)
    * Reading 2:[MadRadar](https://www.ndss-symposium.org/wp-content/uploads/ndss2024_f153_paper.pdf)
    * Reading 3:[mmSpoof](https://ieeexplore.ieee.org/abstract/document/10179371)
----
-# Smart grid security
+## Smart grid security
    * Reading 1: [MadIoT](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/madiot.pdf)
    * Reading 2: [MadIoT2.0](https://www.usenix.org/system/files/sec22-shekari.pdf)
    * Reading 3: [shedding light on grid](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179343)
----
-# Electrical vehicle security
+## Electrical vehicle security
    * Reading 1: [Losing the Car Keys](https://www.usenix.org/system/files/sec19-baker.pdf)
    * Reading 2: [secure EV charging](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-79-paper.pdf)
    * Reading 3: [BROKENWIRE](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s251_paper.pdf)
