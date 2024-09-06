@@ -43,9 +43,9 @@ CS Cyber-physical system security
 # Autonomous vehicle security
 ---
 # Smart grid security
-* power system security
    * Reading 1: [MadIoT](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/madiot.pdf)
-   * Reading 2: [shedding light on grid](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179343)
+   * Reading 2: [MadIoT2.0](https://www.usenix.org/system/files/sec22-shekari.pdf)
+   * Reading 3: [shedding light on grid](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179343)
 ---
 # Electrical vehicle security
    * Reading 1: [Losing the Car Keys](https://www.usenix.org/system/files/sec19-baker.pdf)
