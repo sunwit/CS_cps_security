@@ -22,7 +22,10 @@ CS Cyber-physical system security
    * Reading 2: [RFScan]()
 * SRS security
    * Reading 1: [VoxCloak](https://www.usenix.org/system/files/usenixsecurity24-ge-attacks.pdf)
-   * Reading 2: []()
+   * Reading 2: [Foice](https://www.usenix.org/system/files/usenixsecurity24-jiang-nan.pdf)
+* Electromagnetic emanations side-channel for IoT
+   * Reading 1: [ESauron](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
+   * Reading 2: [EarFisher](https://www.usenix.org/conference/nsdi21/presentation/shen)
 ---
 
 # Wireless communication and sensing systems security and privacy
