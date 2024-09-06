@@ -35,7 +35,7 @@ CS Cyber-physical system security
    * Reading 2: [IoT traffic reshaping](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot2.pdf)
 ---
 
-# WiFi sensing security and privacy
+# Wireless security
 * Wireless keystroke detection
    * Reading 1: [WINK](https://dl.acm.org/doi/pdf/10.1145/3548606.3559339)
    * Reading 2: [WindTalker](https://dl.acm.org/doi/pdf/10.1145/2976749.2978397)
@@ -46,6 +46,10 @@ CS Cyber-physical system security
 * WiFi protocol vulnerability
    * Reading 1: [Wi-Peep](https://dl.acm.org/doi/pdf/10.1145/3495243.3560530)
    * Reading 2: [wifi say hi](https://dl.acm.org/doi/pdf/10.1145/3422604.3425951)
+   * Reading 3: [wifi wps security](Surveilling the Masses with Wi-Fi-Based Positioning Systems)
+* MIMO security
+   * Reading 1: [MIMOCryt](https://arxiv.org/pdf/2309.00250)
+   * Reading 2: [CSI authentication](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a042/1RjEagFjTDW)
 ---
 # RFID security and privacy
 * secure backscatter tags
