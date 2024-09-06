@@ -26,7 +26,12 @@ CS Cyber-physical system security
 * Electromagnetic emanations side-channel for IoT
    * Reading 1: [ESauron](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
    * Reading 2: [EarFisher](https://www.usenix.org/conference/nsdi21/presentation/shen)
-* 
+* Human-centered IoT security and privacy
+   * Reading 1: [sok](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6956585)
+   * Reading 2: [Medical devices security](https://dl.acm.org/doi/pdf/10.1145/3139937.3139939)
+* smart home security and privacy
+   * Reading 1: [all things considered](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot1.pdf)
+   * Reading 2: [IoT traffic reshaping](https://users.ece.cmu.edu/~vsekar/Teaching/Fall21/18739/reading/homeiot2.pdf)
 ---
 
 # Wireless communication and sensing systems security and privacy
