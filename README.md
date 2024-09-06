@@ -11,6 +11,18 @@ CS Cyber-physical system security
 ---
 
 # IoT security and privacy
+* ML for IoT security
+   * Reading 1: [IOT SENTINEL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7980167)
+   * Reading 2: [IoT Inspector](https://dl.acm.org/doi/pdf/10.1145/3397333)
+* Accoustic side-channel for IoT
+   * Reading 1: [Backdoor](https://dl.acm.org/doi/abs/10.1145/3081333.3081366)
+   * Reading 2: [DolphinAttack](https://dl.acm.org/doi/pdf/10.1145/3133956.3134052)
+* IoT privacy
+   * Reading 1: [Lumos](https://www.usenix.org/system/files/sec22-sharma-rahul.pdf)
+   * Reading 2: [RFScan]()
+* SRS security
+   * Reading 1: [VoxCloak](https://www.usenix.org/system/files/usenixsecurity24-ge-attacks.pdf)
+   * Reading 2: []()
 ---
 
 # Wireless communication and sensing systems security and privacy
