@@ -51,6 +51,3 @@ CS Cyber-physical system security
    * Reading 2: [secure EV charging](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-79-paper.pdf)
    * Reading 3: [BROKENWIRE](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s251_paper.pdf)
 ---
-
-# Machine learning security
----
