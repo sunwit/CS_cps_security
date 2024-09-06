@@ -80,3 +80,15 @@ CS Cyber-physical system security
    * Reading 2: [secure EV charging](https://www.ndss-symposium.org/wp-content/uploads/vehiclesec2024-79-paper.pdf)
    * Reading 3: [BROKENWIRE](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s251_paper.pdf)
 ---
+
+# Reviews
+   * The reviews aim to help you become comfortable reading research papers on security and privacy of the cyber-physical systems. 
+   * Students are expected to write reviews for the papers before the class.
+   * reviews should include summary, strength and weakeness of the paper.
+---
+# Class presentation
+   * The goal of the presentation and in-class discussion is to learn how to form your own opinions about a paper.
+Depending on the number of students, each student will give one to three talks during the course.
+The speaker should send their slides to me three days before the presentation. In class, we expect you to know all the details of the paper and be able to answer questions during the discussion. If you have any questions about the paper, feel free to reach out to me before the class.
+Some authors share slides online, and some conferences share conference talk videos. You are encouraged to check out these resources or reuse them for your presentation with clear citations. However, be aware that conference talks are often short and focus more on the motivation rather than the technical details. They may also highlight only the benefits of their approaches (Everyone likes his own work). So, if you reuse the slides, please add more technical details, ensure you understand the content thoroughly, and share your own opinions of the work (not just the authors').
+---
