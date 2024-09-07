@@ -88,7 +88,72 @@ CS Cyber-physical system security
 ---
 # Class presentation
    * The goal of the presentation and in-class discussion is to learn how to form your own opinions about a paper.
-Depending on the number of students, each student will give one to three talks during the course.
-The speaker should send their slides to me three days before the presentation. In class, we expect you to know all the details of the paper and be able to answer questions during the discussion. If you have any questions about the paper, feel free to reach out to me before the class.
-Some authors share slides online, and some conferences share conference talk videos. You are encouraged to check out these resources or reuse them for your presentation with clear citations. However, be aware that conference talks are often short and focus more on the motivation rather than the technical details. They may also highlight only the benefits of their approaches (Everyone likes his own work). So, if you reuse the slides, please add more technical details, ensure you understand the content thoroughly, and share your own opinions of the work (not just the authors').
+   * In class, we expect you to know all the details of the paper and be able to answer questions during the discussion. 
+   * Some authors share slides online, and some conferences share conference talk videos. You are encouraged to check out these resources or reuse them for your presentation with clear citations. However, be aware that conference talks are often short and focus more on the motivation rather than the technical details. They may also highlight only the benefits of their approaches (Everyone likes his own work). So, if you reuse the slides, please add more technical details, ensure you understand the content thoroughly, and share your own opinions of the work (not just the authors').
 ---
+# Presentation format
+   * The presentation should cover the major content of the paper, including motivation (what problem the paper is solving; why this problem wasn't solved before), challenges (why this problem is difficult to solve), system design (how the authors address the challenges), evaluation (does it demonstrate that the problems/challenges are solved?), and your personal opinions of the paper.
+   * The talk should be around 45-50 minutes, excluding the review questions and discussions. This is longer than a normal conference talk to allow for more context on problem settings and detailed system design.
+   * Additionally, read all the reviews submitted by your classmates, list their questions in your slides, and lead the discussion of these questions in class. Be prepared to answer detailed questions about the paper during the discussion. The presentation will be graded based on both content (your understanding of the paper) and presentation (your delivery of the knowledge).
+---
+# Projects
+The semester-long project is an open-ended cyber secure systems research project. Project topics are of your choice but should be related to cybersecurity. Projects should be done in groups of two or three and include a systems-building component. Selected projects can be submitted as peer-reviewed papers.
+
+## Project Timeline
+
+00/00/0000:Form groups for course projects
+00/00/0000:Course project proposal
+00/00/0000:Schedule individual meetings with wei to get feedback on your project proposal
+00/00/0000:Course project pitch presentation
+00/00/0000:Midterm project report due at noon
+00/00/0000:Schedule individual meetings with wei to get feedback on your midterm report
+00/00/0000:Final project presentation
+00/00/0000:Final project due at noon
+00/00/0000:Review of other students' projects due at noon
+
+---
+## Project Proposal
+The project proposal serves as a checkpoint, providing a basis for your individual meetings with wei and for your pitch presentations. Unfortunately, late submissions will not be accepted, and there is no opportunity to make up the grade. After submission, you can keep updating your proposal and bring your latest one to your meeting with wei.
+
+---
+
+## Project pitch presentation
+Each group should deliver a 5-minute talk on their project ideas. Be mindful about the scope of your project to ensure it can be completed by your team within two and a half months. The presentation should include the following points (one slide per question):
+
+* What problem are you solving?
+* Why is it an important problem?
+* What potential challenges might you face in solving the problem?
+* What is your plan for the midterm report and division of work within the team?
+* Your grade depend on how concrete your problem and execution plan are
+
+---
+
+## Midterm Project Report
+The midterm report should be about 2-4 pages and serve as a starting point for your final project report (see detailed requirements for the final report below) To achieve a high score for your midterm report, it is important to deliver an initial evaluation of your system. You don't need to complete the entire system; instead, focus on identifying the most critical component/question in your project and provide an initial quantitative evaluation. The midterm report should include the following:
+
+Describe the problem you plan to solve, why it is novel/unique, and the major challenges (similar to your project pitch presentation, but feel free to adapt it based on your new understanding of the problem).
+Describe the detailed design of your project and what you have implemented/evaluated so far.
+Provide one evaluation figure about your initial system (This will be the focus of your meeting with wei)
+Discuss the remaining challenges, how you plan to address them, and your plan for the remaining time.
+Final project presentations
+This presentation should resemble a workshop talk. You might consider covering the following content (not necessarily in the same order):
+
+* What problem are you solving?
+* Why is it an important problem?
+* What is your basic solution to the problem?
+* What are the challenges in the problem?
+* How did you solve these challenges? Or how do you plan to solve them?
+* Your preliminary evaluation results
+* What do you plan to improve for the final report?
+
+---
+## Final Project Report
+The report should be similar in spirit to a workshop paper, spanning six pages of double-column, single-spaced, 10-point font, excluding references. Here is an example LaTeX framework for formatting and building your paper. As shown in the framework, you may consider the following sections for your report:
+
+* Title: Something grabby that correctly describes a part of the contribution.
+* Abstract: A paragraph or two that concisely describes the motivation for the work (the problem addressed), the contribution of the work, and a highlight of your results.
+* Introduction: The introduction often covers the following questions: what problem are you trying to solve? Why is your problem important? What are the key challenges in solving your problem? What are your high-level ideas for addressing these challenges? What is your key design/system architecture? What are your key findings and evaluation results?
+* Design: Start with the high-level architecture of your system, and then describe the details of your design in enough relevant detail that a skilled system builder could replicate your work. Compare your design choices with alternative approaches to explain why you designed your system this way.
+* Evaluation: For systems work, this often includes the following subsections: (1) Experimental setup: Describe how you ran your experiments. What kinds of machines? How much memory? How many trials? How did you prepare the machine before each trial? (2) The experiments themselves, grouped by purpose. Include figures. (3) A summary of the experimental results. Some good evaluations are organized around performance hypotheses: statements that the experiments aim to support or disprove. It is important to discuss the implications of your observed results and why you see such results.
+* Related work: Describe related research, especially research closely related to your work. This section serves to provide citations and comparisons. For each group of citations, describe (1) the core idea, (2) what is complementary to your work, (3) what is more advanced than your work, and (4) what is advanced upon by your work. (2)–(4) are optional—some papers will be entirely complementary with or orthogonal to your work.
+* Conclusion: Summarize your work and its contributions.
